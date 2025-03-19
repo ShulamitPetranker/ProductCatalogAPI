@@ -143,3 +143,4 @@ C:\Users\ShulamitPetranker\Projects\ProductCatalogAPI\ProductCatalogAPI\obj\Debu
 C:\Users\ShulamitPetranker\Projects\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\net8.0\ProductCatalogAPI.genruntimeconfig.cache
 C:\Users\ShulamitPetranker\Projects\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\net8.0\ref\ProductCatalogAPI.dll
 C:\Users\ShulamitPetranker\Projects\ProductCatalogAPI\ProductCatalogAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ShulamitPetranker\Projects\ProductCatalogAPI\ProductCatalogAPI\obj\Debug\net8.0\ProductCatalogAPI.sourcelink.json
